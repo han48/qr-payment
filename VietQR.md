@@ -5,13 +5,18 @@ EMVCo là viết tắt của Europay, Mastercard và Visa, ba công ty thẻ tí
 EMVCo cũng chịu trách nhiệm cho việc phát triển và duy trì các tiêu chuẩn khác liên quan đến thanh toán di động, như EMV Contactless, EMV QR Code, EMV Secure Remote Commerce và EMV 3-D Secure. Ngoài ra, EMVCo cũng cung cấp các dịch vụ kiểm tra và chứng nhận cho các sản phẩm và giải pháp thanh toán tuân thủ các tiêu chuẩn EMV.
 
 EMVCo là một tổ chức độc lập và không phải là một cơ quan quy định hay chính phủ. EMVCo hợp tác với các bên liên quan khác trong ngành thanh toán, như các ngân hàng, các nhà cung cấp dịch vụ, các nhà sản xuất thiết bị, các cơ quan tiêu chuẩn và các tổ chức quốc tế để nâng cao chất lượng và an ninh của các giao dịch thanh toán trên toàn cầu.
+
 ======================================
+
 VietQR là một tiêu chuẩn mã QR dành cho thanh toán điện tử tại Việt Nam, được phát triển bởi Ngân hàng Nhà nước Việt Nam (NHNN) và EMVCo. VietQR được thiết kế để tương thích với các tiêu chuẩn quốc tế về mã QR, như EMV QR Code và ISO 20022. VietQR cho phép người dùng thanh toán cho các sản phẩm và dịch vụ bằng cách quét mã QR bằng điện thoại thông minh, thay vì sử dụng tiền mặt hay thẻ.
+
 ======================================
+
 Lợi ích của VietQR trong giao dịch hiện đại:
 - Dễ dàng tạo ra các mã QR Code để thanh toán nhanh và được chấp nhận bởi hơn 60 ngân hàng và dịch vụ trong lãnh thổ Việt Nam.
 - Giảm thiểu khản năng chuyển tiền nhầm (do nhập sai thông tin người hưởng thụ).
 - Giảm thiểu lừa đảo (do sử dụng mã QR Tĩnh, bị dán đè).
+
 ======================================
 
 Cấu trúc của một chuỗi VietQR
